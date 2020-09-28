@@ -1,0 +1,2 @@
+# rentospot
+gadgets for rent
